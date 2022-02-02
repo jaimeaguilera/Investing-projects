@@ -1,0 +1,11 @@
+numpy
+pandas
+ipykernel==6.2.0
+jupyter==1.0.0
+openpyxl==3.0.7
+yfinance
+investpy
+urllib3
+glob
+matplotlib
+#numba
